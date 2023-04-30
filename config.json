@@ -1,7 +1,7 @@
 {
-    "owners": "owner-id-only",
-    "logging": "logging-channel-for-server-joins",
-    "server": "insert-your-main-server-id",
-    "prefix": ";",
-    "activity": "games!"
+    "owners": "764874247646085151",
+    "logging": "918464572128628806",
+    "server": "813183701696905236",
+    "prefix": "r.",
+    "activity": "checking invalid invites | database for checkchannel settings got wiped please reconfigure for the bot to work ty!"
 }
